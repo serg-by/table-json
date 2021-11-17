@@ -107,7 +107,7 @@
     "category": "Desktop",
     "price": 50000,
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
-    "stocked": true,
+    "stocked": false,
     "created_at": "2019/3/6",
     "updated_at": "2019/11/19"
   },
