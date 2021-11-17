@@ -130,17 +130,7 @@
     "stocked": false,
     "created_at": "2019/2/28",
     "updated_at": "2019/11/21"
-  },
-  {
-    "id": 13,
-    "brand": "Samsung",
-    "name": "Galaxy S3",
-    "category": "Phone",
-    "price": 210000,
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
-    "stocked": true,
-    "created_at": "2019/3/1",
-    "updated_at": "2019/11/22"
   }
+  
 
 ]
