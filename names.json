@@ -141,28 +141,6 @@
     "stocked": true,
     "created_at": "2019/3/1",
     "updated_at": "2019/11/22"
-  },
-  {
-    "id": 14,
-    "brand": "Samsung",
-    "name": "Galaxy S5",
-    "category": "Phone",
-    "price": 250000,
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
-    "stocked": true,
-    "created_at": "2019/3/8",
-    "updated_at": "2019/11/23"
-  },
-  {
-    "id": 15,
-    "brand": "Samsung",
-    "name": "Galaxy Note",
-    "category": "Phone",
-    "price": 7520,
-    "description": "Sit amet consectetur adipisicing elit. Aliquam quo quas itaque natus voluptatibus neque, ipsa autem possimus obcaecati molestiae?",
-    "stocked": true,
-    "created_at": "2019/3/9",
-    "updated_at": "2019/11/24"
   }
 
 ]
