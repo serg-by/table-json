@@ -96,7 +96,7 @@
     "category": "Laptop",
     "price": 12000,
     "description": "Sit amet consectetur adipisicing elit. Aliquam quo quas itaque natus voluptatibus neque, ipsa autem possimus obcaecati molestiae?",
-    "stocked": false,
+    "stocked": true,
     "created_at": "2019/3/5",
     "updated_at": "2019/11/18"
   },
