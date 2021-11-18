@@ -6,7 +6,7 @@
     "brand": "Huawei",
     "name": "iPhone Z",
     "category": "Глубокое",
-    "price": 154000,
+    "present": 154000,
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
     "stocked": true,
     "created_at": "2020/8/4",
