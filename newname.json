@@ -88,49 +88,6 @@
     "stocked": false,
     "created_at": "2019/3/4",
     "updated_at": "2019/11/17"
-  },
-  {
-    "id": 9,
-    "brand": "Apple",
-    "name": "Macbook Pro",
-    "category": "Laptop",
-    "price": 12000,
-    "description": "Sit amet consectetur adipisicing elit. Aliquam quo quas itaque natus voluptatibus neque, ipsa autem possimus obcaecati molestiae?",
-    "stocked": true,
-    "created_at": "2019/3/5",
-    "updated_at": "2019/11/18"
-  },
-  {
-    "id": 10,
-    "brand": "Apple",
-    "name": "mac mini",
-    "category": "Desktop",
-    "price": 50000,
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
-    "stocked": false,
-    "created_at": "2019/3/6",
-    "updated_at": "2019/11/19"
-  },
-  {
-    "id": 11,
-    "brand": "Apple",
-    "name": "iMac",
-    "category": "Desktop",
-    "price": 60000,
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
-    "stocked": true,
-    "created_at": "2019/3/7",
-    "updated_at": "2019/11/20"
-  },
-  {
-    "id": 12,
-    "brand": "Apple",
-    "name": "Apple watch",
-    "category": "Watch",
-    "price": 100000,
-    "description": "Sit amet consectetur adipisicing elit. Aliquam quo quas itaque natus voluptatibus neque, ipsa autem possimus obcaecati molestiae?",
-    "stocked": false,
-    "created_at": "2019/2/28",
-    "updated_at": "2019/11/21"
-  } 
+  }
+  
 ]
