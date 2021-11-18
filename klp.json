@@ -1,93 +1,85 @@
-
+// 20211118172656
+// https://raw.githubusercontent.com/serg-by/table-json/main/klp.json
 
 [
-  {
-    "id": 1,
-   
-    "name": "Даниил Б.",
-    "category": "Глубокое",
-    "present": 154000,
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
-    "stocked": true,
-    "created_at": "2020/8/4",
-    "updated_at": "2020/8/20"
-  },
-  {
-    "id": 2,
-   
-    "name": "Юлия Б.",
-    "category": "Поставы",
-    "price": 10000,
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
-    "stocked": false,
-    "created_at": "2020/1/5",
-    "updated_at": "2020/3/8"
-  },
-  {
-    "id": 3,
-   
-    "name": "Алексей Б.",
-    "category": "Полоцк",
-    "price": 120000,
-    "description": "Sit amet consectetur adipisicing elit. Aliquam quo quas itaque natus voluptatibus neque, ipsa autem possimus obcaecati molestiae?",
-    "stocked": true,
-    "created_at": "2019/1/2",
-    "updated_at": "2019/4/8"
-  },
-  {
-    "id": 4,
-   
-    "name": "iPhone 11",
-    "category": "Глубокое",
-    "price": 30000,
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
-    "stocked": true,
-    "created_at": "2019/3/11",
-    "updated_at": "2019/11/13"
-  },
-  {
-    "id": 5,
-   
-    "name": "Андрей В.",
-    "category": "Поставы",
-    "price": 50000,
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
-    "stocked": true,
-    "created_at": "2019/3/12",
-    "updated_at": "2019/11/27"
-  },
-  {
-    "id": 6,
-   
-    "name": "Иннокентий Ж.",
-    "category": "Поставы",
-    "price": 23000,
-    "description": "Sit amet consectetur adipisicing elit. Aliquam quo quas itaque natus voluptatibus neque, ipsa autem possimus obcaecati molestiae?",
-    "stocked": false,
-    "created_at": "2019/3/2",
-    "updated_at": "2019/11/27"
-  },
-  {
-    "id": 7,
-    
-   "name": "Данила З.",
-    "category": "Глубокое",
-    "price": 130000,
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
-    "stocked": true,
-    "created_at": "2019/3/3",
-    "updated_at": "2019/11/16"
-  },
-  {
-    "id": 8,
-   
-    "name": "Оля",
-    "category": "Полоцк",
-    "price": 420000,
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
-    "stocked": false,
-    "created_at": "2019/3/4",
-    "updated_at": "2019/11/17"
-  }
-  
-]
+    {
+      "id": 1,
+      "name": "Даниил Б.",
+      "category": "Глубокое",
+      "present": "Разговаривающие книжки (планшет)+батарейки",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
+      "stocked": true,
+      "created_at": "2020/8/4",
+      "updated_at": "2020/8/20"
+    },
+    {
+      "id": 2,
+      "name": "Юлия Б.",
+      "category": "Поставы",
+      "present": "Подарок-сюрприз",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
+      "stocked": false,
+      "created_at": "2020/1/5",
+      "updated_at": "2020/3/8"
+    },
+    {
+      "id": 3,
+      "name": "Алексей Б.",
+      "category": "Полоцк",
+      "present": "Подарок-сюрприз",
+      "description": "Sit amet consectetur adipisicing elit. Aliquam quo quas itaque natus voluptatibus neque, ipsa autem possimus obcaecati molestiae?",
+      "stocked": true,
+      "created_at": "2019/1/2",
+      "updated_at": "2019/4/8"
+    },
+    {
+      "id": 4,
+      "name": "София",
+      "category": "Глубокое",
+      "present": "Подарок-сюрприз",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
+      "stocked": true,
+      "created_at": "2019/3/11",
+      "updated_at": "2019/11/13"
+    },
+    {
+      "id": 5,
+      "name": "Андрей В.",
+      "category": "Поставы",
+      "present": "Подарок-сюрприз",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
+      "stocked": true,
+      "created_at": "2019/3/12",
+      "updated_at": "2019/11/27"
+    },
+    {
+      "id": 6,
+      "name": "Иннокентий Ж.",
+      "category": "Поставы",
+      "present": "Подарок-сюрприз",
+      "description": "Sit amet consectetur adipisicing elit. Aliquam quo quas itaque natus voluptatibus neque, ipsa autem possimus obcaecati molestiae?",
+      "stocked": false,
+      "created_at": "2019/3/2",
+      "updated_at": "2019/11/27"
+    },
+    {
+      "id": 7,
+      "name": "Данила З.",
+      "category": "Глубокое",
+      "present": "Подарок-сюрприз",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
+      "stocked": true,
+      "created_at": "2019/3/3",
+      "updated_at": "2019/11/16"
+    },
+    {
+      "id": 8,
+      "name": "Оля",
+      "category": "Полоцк",
+      "present": "Подарок-сюрприз",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere, nesciunt. Quaerat illum praesentium tempora optio? Mollitia atque nisi tempora rerum.",
+      "stocked": false,
+      "created_at": "2019/3/4",
+      "updated_at": "2019/11/17"
+    }
+  ]
